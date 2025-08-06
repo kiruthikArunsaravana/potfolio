@@ -90,10 +90,10 @@ const Projects = () => {
                       </div>
 
                       <div className="flex gap-3">
-                        <Button variant="default" size="sm" className="bg-gradient-primary hover:opacity-90">
+                        {/* <Button variant="default" size="sm" className="bg-gradient-primary hover:opacity-90">
                           <ExternalLink className="w-4 h-4 mr-2" />
                           View Project
-                        </Button>
+                        </Button> */}
                         <a href={project.githubUrl} target="_blank" rel="noopener noreferrer">
                           <Button variant="outline" size="sm">
                             <Github className="w-4 h-4 mr-2" />
