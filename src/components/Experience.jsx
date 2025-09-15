@@ -5,15 +5,15 @@ import { Briefcase, Calendar } from "lucide-react";
 const Experience = () => {
   const experiences = [
     {
-      title: "Software Development Intern",
+      title: "Full Stack Developer Intern",
       company: "Infosys",
       period: "02/2025 to 04/2025",
       description: "Worked on backend development using Spring Boot and React. Gained experience with CRUD operations and data visualization tools.",
       technologies: ["Spring Boot", "React", "CRUD", "Data Visualization"]
     },
+    
     {
-      title: "Full Stack Developer Intern", 
-      company: "Infosys",
+      title: "Software Development Intern", 
       period: "06/2024 to 07/2024",
       description: "Learned industry fundamentals, soft skills, and full-stack basics. Practiced frontend and backend integration using sample modules.",
       technologies: ["Frontend", "Backend", "Integration", "Industry Practices"]
